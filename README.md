@@ -1,3 +1,3 @@
 # 微信小程序《天气播报》
 ## WeChat-Mini-Program-Weather-Broadcasting-
-![image](https://github.com/Owner0707/WeChat-Mini-Program-Weather-Broadcasting-/blob/master/DisplayImage.png）
+![image](https://raw.githubusercontent.com/Owner0707/WeChat-Mini-Program-Weather-Broadcasting-/master/DisplayImage.png）
